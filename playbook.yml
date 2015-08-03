@@ -2,4 +2,4 @@
 
 - hosts: localhost
   roles:
-    - role: atoshio25.java
+    - role: java
