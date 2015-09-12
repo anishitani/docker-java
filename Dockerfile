@@ -4,9 +4,9 @@ MAINTAINER André Nishitani <andre.nishitani@gmail.com>
 
 RUN /scripts/init_squid_cache.sh
 
-ENV VERSION 7
-ENV UPDATE 80
-ENV BUILD 15
+ENV VERSION 8
+ENV UPDATE 60
+ENV BUILD 27
 
 ENV JAVA_HOME /usr/lib/jvm/java-${VERSION}-oracle
 ENV JRE_HOME ${JAVA_HOME}/jre
