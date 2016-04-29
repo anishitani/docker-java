@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM python:2.7-slim
 
 MAINTAINER André Nishitani <andre.nishitani@gmail.com>
 
